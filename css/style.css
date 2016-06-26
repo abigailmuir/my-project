@@ -3,7 +3,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 body {
-	font-family: "Helvetica Neue";
+	font-family: "niveau-grotesk",sans-serif;
 	background: #F9F9F9;
 }
 
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-	font-family: "Times New Roman";
+	font-family: "freight-text-pro", sans-serif;
 	font-style: italic;
 	font-weight: 100;
 	font-size: 26px;
@@ -61,6 +61,7 @@ h6 {
 }
 
 p {
+	font-family: "freight-text-pro", sans-serif;
 	font-weight: 200;
 	font-size: 17px;
 	color: #787574;
